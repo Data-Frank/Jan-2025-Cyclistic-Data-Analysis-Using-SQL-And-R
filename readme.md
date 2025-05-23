@@ -95,12 +95,8 @@ Code:  [05 Data Analysis.sql](./05%20Data%20Analysis.sql)
 
 <img src="https://github.com/user-attachments/assets/ff1e533c-0b78-46aa-80b7-2f5d0a031fc4" alt="Weekday_Casual2" width="120">
 
-* Selected top 10 most popular stations per member type.
+* Selected top 10 most popular stations per member type. It turns out the top 10 most popular stations of the annual (member) type of user don’t match the top 10 of the casual users.
 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
-
-**The top 10 most popular stations of the annual (member) type of user don’t match the top 10 of the casual users.**  
 * Created a table displaying usage per member type per month.  
 * Calculated casual rides per station.  
 * Created a table with the day of the week added.  
