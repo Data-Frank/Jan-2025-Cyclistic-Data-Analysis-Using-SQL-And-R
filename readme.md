@@ -92,10 +92,13 @@ Code:  [05 Data Analysis.sql](./05%20Data%20Analysis.sql)
   --member--497.65---0.02-----12.59
    
 *  Visualized average travel time per user type by using Tableau.  
-<img src="https://github.com/user-attachments/assets/33fb70e2-e305-4282-93fa-fe54de99b462" alt="AVG Travel Time" width="100">  
+
+<img src="https://github.com/user-attachments/assets/ff1e533c-0b78-46aa-80b7-2f5d0a031fc4" alt="Weekday_Casual2" width="120">
 
 * Selected top 10 most popular stations per member type.
-![image](https://github.com/user-attachments/assets/179629dd-232d-40e3-99a2-94b2f3ca1900)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
 
 **The top 10 most popular stations of the annual (member) type of user don’t match the top 10 of the casual users.**  
 * Created a table displaying usage per member type per month.  
@@ -103,9 +106,10 @@ Code:  [05 Data Analysis.sql](./05%20Data%20Analysis.sql)
 * Created a table with the day of the week added.  
 * Counted rides per day of the Week per Member Type.  
 * Visualized this by using Tableau.  
-  
-<img src="https://github.com/user-attachments/assets/cb5ed453-2a14-4ba7-a5d4-10b7cc60a7f0" alt="Weekday_Member1" width="300">
-<img src="https://github.com/user-attachments/assets/2e6e40e3-2758-465c-a35a-f6f2050930f0" alt="Weekday_Casual2" width="300">
+
+ 
+<img src="https://github.com/user-attachments/assets/d63f8fc3-76b4-4026-bf0b-ef33b305f8e9" alt="Weekday_Member1" width="300">
+<img src="https://github.com/user-attachments/assets/7927934a-80f3-4383-a04d-3fb9eb0d4a5f" alt="Weekday_Casual2" width="300">
 
 
 
