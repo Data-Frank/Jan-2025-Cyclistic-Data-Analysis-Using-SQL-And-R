@@ -137,6 +137,3 @@ The most popular biking days for the annual users were on Tuesday, Wednesday and
 * Your target audience will be at the station which are used by locals, where you already find annual users.  
 * You could target hotels and hostels. If they get an annual membership, they can rent it out to their customers.  
 
-**Personal reflection**
-This has been a very educating experience for me. I learned how to work in SQL, R, write a report and handle big data sets. I look forward to improving my skills in future assignments! 
-
